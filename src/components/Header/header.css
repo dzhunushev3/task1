@@ -1,0 +1,17 @@
+
+.header{
+
+    background-image:url("https://www.curzoncinemas.com/image?url=http://cms.curzoncinemas.com//media/4795/2019-10-03-1.jpg");
+    background-size:100% 100%;
+    height:400px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    position: relative;
+}
+.divSidebar{
+    position: absolute;
+    bottom: 5%;
+    left: 35%;
+}
